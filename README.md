@@ -4,7 +4,7 @@ Demo using private pods
 
 Private Repo
 
-	[https://github.com/jalopezcar/repo_pod](https://github.com/jalopezcar/repo_pod)
+ * [https://github.com/jalopezcar/repo_pod](https://github.com/jalopezcar/repo_pod)
 	
 Private Pods
 	
